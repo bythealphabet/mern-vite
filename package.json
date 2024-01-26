@@ -1,0 +1,17 @@
+{
+  "name": "mern-vite",
+  "version": "1.0.0",
+  "description": "mern application created using vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "node",
+    "typescript",
+    "mern"
+  ],
+  "author": "Isaac",
+  "license": "MIT"
+}
